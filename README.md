@@ -6,6 +6,15 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <img src="https://media.giphy.com/media/71rQ7GSHroBQwsSVMu/giphy.gif" width="500">
 
+## Play and Install Game
+
+https://tic-tac-toe-game-f6758.web.app/
+
+The game is running on firebase. Angular application to a remote server Firebase need to do following steps:
+1) ng build
+2) ng add @angular/fire
+3) ng deploy
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
