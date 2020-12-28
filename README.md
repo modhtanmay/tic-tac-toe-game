@@ -1,6 +1,6 @@
 # TicTacToe
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.7. This project can be downloaded and installed buy clicking on top + sign in browser. 
 
 ## Working Game
 
@@ -14,6 +14,16 @@ The game is running on firebase. Angular application to a remote server Firebase
 1) ng build
 2) ng add @angular/fire
 3) ng deploy
+
+## Progressive Web App (PWA)
+
+PWAs are a nice way to make regular web applications act like native apps on Android, Windows, Chrome OS, and many more...
+
+1) Use angular cli
+2) ng add @angular/pwa
+3) Edit Manifest
+4) Edit service worker config file
+
 
 ## Development server
 
